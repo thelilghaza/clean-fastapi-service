@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.venv/
+env/
+dist/
+build/
+*.egg-info/
+
+# Environments & Local Settings
+.env
+.env.local
+
+# Databases & Cache
+*.db
+*.sqlite3
+.pytest_cache/
+.coverage
+htmlcov/
